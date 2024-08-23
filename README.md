@@ -1,7 +1,5 @@
 # Gummies-AI
 
-Google Stock App for Dummies powered by AI (of course).
+Gummies: A Gemini Driven Stock Market Advisor App
 
-## Getting Started
 
-TODO: Finish project before writing readme :)
